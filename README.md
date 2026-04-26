@@ -92,7 +92,7 @@ I am a **full-stack developer** based in **Paris, France**, specialising in the 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farzadbagheri.fr-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://farzadbagheri.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad_BAGHERI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad_BAGHERI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzad-bagheri-0b333a67/)
 [![Email](https://img.shields.io/badge/Email-contact@farzadbagheri.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@farzadbagheri.fr)
 
 </div>
