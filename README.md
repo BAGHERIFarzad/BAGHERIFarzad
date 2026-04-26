@@ -9,7 +9,7 @@
 <a href="https://farzadbagheri.fr" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-farzadbagheri.fr-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/farzad-bagheri-0b333a67/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Based_in-Paris_%F0%9F%87%AB%F0%9F%87%B7-brightgreen?style=for-the-badge" />
