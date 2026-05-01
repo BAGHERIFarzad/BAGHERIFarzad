@@ -45,7 +45,7 @@ I am a **full-stack developer** based in **Paris, France**, specialising in the 
 | [💬 ChatFlow](https://github.com/BAGHERIFarzad/chatflow) | Real-time chat with presence & typing | Angular 21 · SignalR · .NET 10 | [README](https://github.com/BAGHERIFarzad/chatflow) |
 | [📊 TaskFlow Dashboard](https://github.com/BAGHERIFarzad/taskflow-dashboard) | Analytics dashboard with real-time charts | React 19.2 · Zustand · TanStack · Recharts | [README](https://github.com/BAGHERIFarzad/taskflow-dashboard) |
 | [🎨 ngx-flow-ui](https://github.com/BAGHERIFarzad/ngx-flow-ui) | Angular 21 component library on npm | Angular 21 · Signals · Storybook 10 · WCAG | [npm](https://npmjs.com/package/ngx-flow-ui) |
-| [🌐 Portfolio](https://github.com/BAGHERIFarzad/portfolio) | Personal portfolio site & tech blog | Next.js 16 · MDX · Turbopack · React 19.2 | [Live](https://farzadbagheri.fr) |
+
 
 ---
 
